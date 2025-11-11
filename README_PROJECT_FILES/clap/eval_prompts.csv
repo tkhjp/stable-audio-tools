@@ -1,0 +1,61 @@
+Prompt_ID,Category,Prompt_EN,Prompt_JP,Tag,Most_Similar_Caption,Similarity_Score,audiocap_id,youtube_id,start_time,dataset_source
+1,Environment – Weather,Gentle morning rain with distant thunder rolls,静かな朝の雨と遠くの雷鳴,Broad Coverage,gentle rain is accompanied by a roll of thunder,0.8799923658370972,16277,5gHDg0looKM,160.0,train
+2,Environment – Weather,Intense windstorm howling through trees,強風が木々を揺らす嵐,Stress‑Test,wind is blowing through trees,0.788740336894989,12478,41jjaMFSjyE,110.0,train
+3,Environment – Water,Small stream bubbling over rocks,小川が岩の上を流れる音,Broad Coverage,water rushing and bubbling,0.6726025342941284,106587,dZDgJzGtLLU,290.0,test
+4,Environment – Water,Massive ocean wave crashing against cliff,巨大な波が崖に打ち付ける音,Stress‑Test,ocean waves crashing,0.8562757968902588,2846,07b_CF0yoDQ,30.0,train
+5,Environment – Fire,Cozy fireplace crackling indoors,暖炉のパチパチと燃える音,Broad Coverage,"a fireplace is making crackling, burning and sparking noises",0.7240604162216187,21279,829pXcxdA4c,8.0,train
+6,Environment – Fire,Large forest wildfire roaring,大規模な山火事が轟く音,Stress‑Test,"a roaring fire crackles, snaps and pops in a small wind",0.5894384384155273,35698,F_8yQ0uAf_I,22.0,train
+7,Environment – Forest,Early morning birds chirping in forest,早朝の森で鳥がさえずる音,Broad Coverage,birds chirping outdoors,0.8230149745941162,84946,mOzmFSERh9Q,3.0,train
+8,Environment – Desert,Wind blowing across desert dunes,砂漠の砂丘を横切る風の音,Broad Coverage,wind blows and rustling occurs as vehicle pass nearby,0.6485962867736816,53273,QsjdfTMv2Dw,130.0,train
+9,Environment – Urban,Busy city intersection with traffic and horns,交通量の多い交差点とクラクション,Broad Coverage,"traffic passes, a unique horn blows",0.6941108107566833,9223,2hLOyCkEtpE,0.0,train
+10,Environment – Urban,Midnight city alley with distant sirens,深夜の路地と遠くのサイレン,Stress‑Test,emergency sirens in the city,0.6947314739227295,1143,-QX-ddNtUvE,24.0,train
+11,Human – Vocal,Single adult cough in quiet room,静かな部屋での大人の咳,Broad Coverage,a person coughs and sniffles,0.6562216281890869,83572,lN6H0_PqKME,10.0,train
+12,Human – Vocal,Crowd cheering in large stadium,大きなスタジアムで歓声が上がる,Broad Coverage,a large crowd cheering and chanting,0.8090404272079468,84488,m3XLmdvOAwE,20.0,train
+13,Human – Footsteps,High‑heels walking on marble floor,大理石の床を歩くハイヒール,Broad Coverage,foot steps followed by a toilet flush,0.48239538073539734,1024,-NW2pPAToFM,0.0,train
+14,Human – Footsteps,Running through crunchy snow,雪を踏みしめて走る音,Stress‑Test,crunching snow followed by a car door shutting and an engine struggling then starting,0.6488284468650818,75997,fsz94DcXJtY,50.0,train
+15,Mechanical – Engine,Small car engine starting and idling,小型車のエンジン始動とアイドリング,Broad Coverage,a small engine starting up,0.8454818725585938,7613,22j8pgi7K7A,21.0,train
+16,Mechanical – Engine,Old diesel truck struggling uphill,古いディーゼルトラックが坂を上る音,Stress‑Test,a diesel truck accelerates and passes by,0.6242995262145996,75655,fbNmnmuCha8,170.0,train
+17,Mechanical – Industrial,Factory conveyor belt with clanks,工場のコンベヤーが鳴る音,Broad Coverage,vacuum along with a clang,0.48314476013183594,61541,WZmGKmPAI9k,220.0,train
+18,Mechanical – Industrial,Hydraulic press crushing metal,油圧プレスが金属を潰す音,Stress‑Test,the scraping of metal against metal,0.5323535203933716,17247,67nLOSZQdXs,12.0,train
+19,Mechanical – Household,Vacuum cleaner running on carpet,カーペットで動く掃除機,Broad Coverage,a vacuum cleaner runs,0.7848804593086243,88147,ommI3yUbhsA,150.0,train
+20,Mechanical – Household,Washing machine spin cycle imbalance,洗濯機が偏って激しく回転する音,Stress‑Test,a washing machine is running,0.609865128993988,1675,-dWUKerFQQ4,7.0,train
+21,Environment – Weather,Sudden hailstorm hitting metal roof,Sudden hailstorm hitting metal roof,Broad Coverage,rain falls heavily on a metal roof and windows,0.6990687251091003,71604,cfXE_kr4Hi4,320.0,train
+22,Environment – Water,Waterfall inside cavern,Waterfall inside cavern,Broad Coverage,a waterfall falls down nearby,0.7074386477470398,52890,QbBpR4yhQZo,430.0,train
+23,Environment – Ice,Glacier cracking loudly,Glacier cracking loudly,Broad Coverage,crackling occurs then a steam engine whistle blows,0.5840420722961426,59212,UzUtpjlIf2E,80.0,train
+24,Environment – Jungle,Nighttime jungle insects and frogs,Nighttime jungle insects and frogs,Broad Coverage,nighttime animals are punctuated by a loud frog,0.7378563284873962,109433,yswmmRZFItk,0.0,val
+25,Environment – Volcano,Distant volcanic eruption rumbles,Distant volcanic eruption rumbles,Broad Coverage,a loud eruption emits followed by an explosion and fire popping noises,0.7114250063896179,65123,Z2s2TlE0lig,16.0,train
+26,Human – Crowd,Murmuring crowd in conference lobby,Murmuring crowd in conference lobby,Broad Coverage,a crowd murmuring,0.8146061897277832,48997,O3VW65g2cwY,30.0,train
+27,Human – Baby,Infant laughing joyfully,Infant laughing joyfully,Broad Coverage,an infant laughing,0.9255772829055786,103752,d6gu2w19YQo,70.0,test
+28,Human – Pain,Adult male groan of pain,Adult male groan of pain,Broad Coverage,"an adult male speaks and laughs, and soft hissing occurs",0.6871078014373779,20942,7ruGZ4jqjHA,30.0,train
+29,Human – Laughter,Group laughter echoing in hall,Group laughter echoing in hall,Broad Coverage,"laughter of a group of people followed by speech, with moaning in the background",0.7113600969314575,74354,efHG6tZHFfE,120.0,train
+30,Human – Breathing,Heavy breathing after sprint,Heavy breathing after sprint,Broad Coverage,heavy breathing followed by sneezing,0.5498408079147339,8232,2IsgfovbWC4,10.0,train
+31,Mechanical – Electric,High voltage power line hum,High voltage power line hum,Broad Coverage,faint electrical hums followed by a single smack,0.6842402815818787,15110,5B0Tbc5TGDg,1.0,train
+32,Mechanical – Electric,Electric arc welder sizzling,Electric arc welder sizzling,Broad Coverage,a machine works far away followed by an electric arc,0.4893106520175934,44084,KsMNbm5js-I,0.0,train
+33,Mechanical – Tool,Hammer hitting nail on wood,Hammer hitting nail on wood,Broad Coverage,a person hammers on wood several times nearby,0.7482748031616211,96586,vFPmKdaGR9o,100.0,train
+34,Mechanical – Tool,Electric drill on metal plate,Electric drill on metal plate,Broad Coverage,electric drill being used,0.7397462129592896,286,-6Q6p3maz7g,80.0,train
+35,Mechanical – Transportation,Subway train arriving station,Subway train arriving station,Broad Coverage,a train is passing by,0.6345362663269043,4417,0kh5HKETL0A,120.0,train
+36,Mechanical – Transportation,Helicopter hovering overhead,Helicopter hovering overhead,Broad Coverage,a helicopter hovers overhead,0.9533559083938599,54387,RfNMhn3jg2s,40.0,train
+37,SFX – Cartoon,Classic slide‑whistle down,Classic slide‑whistle down,Broad Coverage,steam following by a slide whistle,0.6852919459342957,58708,UcYa-1k0Nvc,0.0,train
+38,SFX – Cartoon,Boing spring comedy effect,Boing spring comedy effect,Broad Coverage,"light slashing followed by a bigger splash, a laugh and a shake",0.535476565361023,2500,-yyGrcn-tUU,3.0,train
+39,SFX – Sci‑Fi,Laser gun single shot,Laser gun single shot,Broad Coverage,laser followed by a gun shot,0.8394166827201843,106164,L6rnV0oNIII,8.0,test
+40,SFX – Sci‑Fi,Spaceship warp drive powering up,Spaceship warp drive powering up,Broad Coverage,a motor is idling then revs up,0.38770556449890137,7521,20SQ6TwjChc,550.0,train
+41,SFX – UI,Soft digital notification chime,Soft digital notification chime,Broad Coverage,a digital beeping,0.6255255937576294,6041,1Pm0lEmlShs,30.0,train
+42,SFX – UI,Error buzzer with descending tone,Error buzzer with descending tone,Broad Coverage,a loud buzzer sounds briefly,0.645601212978363,70863,c6d3C4d_POY,30.0,train
+43,SFX – Impact,Glass bottle shattering on tile,Glass bottle shattering on tile,Broad Coverage,glass breaking and shattering,0.7277050614356995,9822,2x-xzXAHlsQ,18.0,train
+44,SFX – Impact,Metal sword clash ring,Metal sword clash ring,Broad Coverage,metal clanking against metal,0.613646388053894,26722,AhqnwsIRbNE,360.0,train
+45,SFX – Whoosh,Fast object swooshing by,Fast object swooshing by,Broad Coverage,somehing moving fast swooshes by,0.7751433849334717,9576,2r5dPVBPh-U,0.0,train
+46,SFX – Reverse,Time‑reverse cymbal swell,Time‑reverse cymbal swell,Broad Coverage,ticking occurs repeatedly with thumping,0.4376038610935211,46236,MISgK6sdlvY,30.0,train
+47,SFX – Magic,Sparkly spell cast twinkle,Sparkly spell cast twinkle,Broad Coverage,tinkling music plays,0.4482523500919342,57888,U2W0IA6xXQ8,30.0,train
+48,SFX – Magic,Deep thunderous magic explosion,Deep thunderous magic explosion,Broad Coverage,"a deep, thundering explosion",0.8812466859817505,73429,dyxxaS4xC20,0.0,train
+49,Musical – Hit,Orchestral stinger boom,Orchestral stinger boom,Broad Coverage,music playing with stings and whooshes,0.6236642599105835,97912,wDMG2TAg0uU,30.0,train
+50,Musical – Loop,Chill lo‑fi drum loop 90 BPM,Chill lo‑fi drum loop 90 BPM,Broad Coverage,an sound of musical track on an drum-snare,0.5124480724334717,9934,3-Qp6bjWmI4,150.0,train
+51,Ambience – Space,Interior spaceship engine hum,Interior spaceship engine hum,Broad Coverage,an engine is idling with a low hum,0.7299408316612244,16186,5dgiX5cAwd0,30.0,train
+52,Ambience – Underwater,Underwater bubbling ambience,Underwater bubbling ambience,Broad Coverage,underwater bubbling and someone is trying to speak under the water,0.749755322933197,5484,1BXNi-cS8V0,5.0,train
+53,Ambience – Cave,Dripping cave echoes,Dripping cave echoes,Broad Coverage,dripping water followed by brief silence,0.6413694620132446,68657,aWnLbeStEDg,0.0,train
+54,Ambience – Market,Busy open‑air market chatter,Busy open‑air market chatter,Broad Coverage,people talk and air is released,0.5479944944381714,83957,lfnZQlbgB1c,10.0,train
+55,Ambience – Library,Quiet library page turns,Quiet library page turns,Broad Coverage,the sound of a page turning is heard,0.49258309602737427,2281,-thiU2hkMNI,260.0,train
+56,Animal – Domestic,Cat purring close up,Cat purring close up,Broad Coverage,a cat is purring,0.8511189818382263,1929,-kKEV9mrbK4,30.0,train
+57,Animal – Domestic,Dog barking distant,Dog barking distant,Broad Coverage,dog barking in the distance,0.9207189679145813,14354,4q5VYLimmKE,30.0,train
+58,Animal – Wild,Lion roar in savanna,Lion roar in savanna,Broad Coverage,a lion roars while birds chirp,0.6711223125457764,92998,sRgnVdOvIaA,30.0,train
+59,Animal – Wild,Elephant trumpet near watering hole,Elephant trumpet near watering hole,Broad Coverage,frogs croak and water splashes with a horn blowing briefly,0.5405248999595642,58754,UfLHw8SKgDE,21.0,train
+60,Animal – Insect,Bee swarm buzzing,Bee swarm buzzing,Broad Coverage,swarm of bees buzzing,0.934606671333313,17083,63j3Ragk18Y,30.0,train
